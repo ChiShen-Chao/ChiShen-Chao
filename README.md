@@ -1,5 +1,5 @@
 ### Hi I am ChiShen-Chao, please call me Jason  👋
-
+## I am the master student in Japan now. Currently, my research is related to ADAS adn Deep Learning.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Deep Learning and Object Detection
